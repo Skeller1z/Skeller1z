@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I've been lerning React.js for 1 year and Vue.js for 6 months. I graduated from Nakhonratchasima Rajabhat University.
+I've been lerning React.js for 1 year and Vue.js for 6 months. I'm graduated from Nakhonratchasima Rajabhat University.
 
 * 🌍  I'm based in Nakhonratchasima, Thailand
 * ✉️  You can contact me at [supha.golf2001@gmail.com](mailto:supha.golf2001@gmail.com)
